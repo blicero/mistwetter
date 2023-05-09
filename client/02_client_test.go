@@ -2,7 +2,7 @@
 // -*- mode: go; coding: utf-8; -*-
 // Created on 23. 07. 2021 by Benjamin Walkenhorst
 // (c) 2021 Benjamin Walkenhorst
-// Time-stamp: <2023-05-09 09:52:42 krylon>
+// Time-stamp: <2023-05-09 17:54:11 krylon>
 
 package client
 
@@ -18,7 +18,7 @@ var c *Client
 func TestClientCreate(t *testing.T) {
 	var err error
 
-	if c, err = New("", "Bielefeld", "Berchtesgaden", "Diepholz"); err != nil {
+	if c, err = New("Bielefeld", "Berchtesgaden", "Diepholz"); err != nil {
 		c = nil
 		t.Fatalf("Failed to create Client: %s",
 			err.Error())

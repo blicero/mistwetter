@@ -2,7 +2,7 @@
 // -*- mode: go; coding: utf-8; -*-
 // Created on 08. 05. 2023 by Benjamin Walkenhorst
 // (c) 2023 Benjamin Walkenhorst
-// Time-stamp: <2023-05-09 09:54:30 krylon>
+// Time-stamp: <2023-05-09 17:53:32 krylon>
 
 // Package client implements the interaction with the DWD web API and the
 // processing of the JSON data.
@@ -15,8 +15,6 @@ import (
 	"io"
 	"log"
 	"net/http"
-	"net/url"
-	"os"
 	"regexp"
 	"sync"
 	"time"
@@ -53,7 +51,7 @@ type Client struct {
 
 // New creates a new Client. If proxy is a non-empty string, it is used as the
 // URL of the proxy server to use for accessing the DWD's web service.
-func New(proxy string, locations ...string) (*Client, error) {
+func New(locations ...string) (*Client, error) {
 	var (
 		err error
 		c   = new(Client)
@@ -67,29 +65,6 @@ func New(proxy string, locations ...string) (*Client, error) {
 	c.stopQueue = make(chan int)
 	c.refreshQueue = make(chan int)
 	c.client.Timeout = time.Second * 90
-
-	if proxy != "" {
-		var u *url.URL
-		if u, err = url.Parse(proxy); err != nil {
-			c.log.Printf("[ERROR] Cannot parse proxy URL %q: %s\n",
-				proxy,
-				err.Error())
-			return nil, err
-		}
-
-		var pfunc = func(r *http.Request) (*url.URL, error) { return u, nil }
-
-		switch t := c.client.Transport.(type) {
-		case *http.Transport:
-			t.Proxy = pfunc
-		default:
-			err = fmt.Errorf("Unexpected type for HTTP Client Transport: %T",
-				c.client.Transport)
-			fmt.Fprintf(os.Stderr, "%s\n", err.Error())
-			return nil, err
-		}
-
-	}
 
 	c.locations = make([]*regexp.Regexp, 0, len(locations))
 
@@ -242,8 +217,8 @@ func (c *Client) IsActive() bool {
 func (c *Client) Start() {
 	c.lock.Lock()
 	c.active = true
-	go c.Loop()
 	c.lock.Unlock()
+	go c.Loop()
 } // func (c *Client) Start()
 
 // Stop terminates the Client's fetch loop.
