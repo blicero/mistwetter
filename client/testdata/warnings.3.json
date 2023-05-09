@@ -1,0 +1,2679 @@
+{
+  "time": 1627157967000,
+  "warnings": {
+    "108118000": [
+      {
+        "regionName": "Kreis Ludwigsburg",
+        "end": 1627162200000,
+        "start": 1627157340000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 4,
+        "description": "Es treten Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen zwischen 30 l/m² und 40 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten um 95 km/h (26m/s, 51kn, Bft 10) und Hagel mit Korngrößen um 2 cm.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis Ludwigsburg",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103401000": [
+      {
+        "regionName": "Stadt Delmenhorst",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107340000": [
+      {
+        "regionName": "Kreis Südwestpfalz und Stadt Pirmasens",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103460000": [
+      {
+        "regionName": "Kreis Vechta",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109189000": [
+      {
+        "regionName": "Kreis Traunstein",
+        "end": 1627158600000,
+        "start": 1627155000000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Westen ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und Hagel mit Korngrößen um 2 cm.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108315000": [
+      {
+        "regionName": "Kreis Breisgau-Hochschwarzwald und Stadt Freiburg",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "908125999": [
+      {
+        "regionName": "Kreis und Stadt Heilbronn",
+        "end": 1627162200000,
+        "start": 1627157340000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 4,
+        "description": "Es treten Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen zwischen 30 l/m² und 40 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten um 95 km/h (26m/s, 51kn, Bft 10) und Hagel mit Korngrößen um 2 cm.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis und Stadt Heilbronn",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109679000": [
+      {
+        "regionName": "Kreis und Stadt Würzburg",
+        "end": 1627162200000,
+        "start": 1627157940000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und kleinkörnigen Hagel.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis und Stadt Würzburg",
+        "end": 1627162200000,
+        "start": 1627157220000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und Hagel.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103459000": [
+      {
+        "regionName": "Kreis und Stadt Osnabrück",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108316000": [
+      {
+        "regionName": "Kreis Emmendingen",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "501000004": [
+      {
+        "regionName": "Elbe von Hamburg bis Cuxhaven",
+        "end": null,
+        "start": 1627141320000,
+        "type": 1,
+        "state": "Schleswig-Holstein",
+        "level": 2,
+        "description": "Gewitterböen von 8 Beaufort aus Südostbis Süd.",
+        "event": "BÖEN",
+        "headline": "Amtliche Warnung des Seewetterdienstes Hamburg vor BÖEN",
+        "instruction": "",
+        "stateShort": "SH",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "903352001": [
+      {
+        "regionName": "Kreis Cuxhaven - Binnenland",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103454000": [
+      {
+        "regionName": "Kreis Emsland",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis Emsland",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 20 l/m² und 30 l/m² in 6 Stunden und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "106632000": [
+      {
+        "regionName": "Kreis Hersfeld-Rotenburg",
+        "end": 1627161300000,
+        "start": 1627158000000,
+        "type": 0,
+        "state": "Hessen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Starkregen mit Niederschlagsmengen um 15 l/m² pro Stunde sowie Windböen mit Geschwindigkeiten bis 60 km/h (17m/s, 33kn, Bft 7) und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "HE",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108225000": [
+      {
+        "regionName": "Neckar-Odenwald-Kreis",
+        "end": 1627162200000,
+        "start": 1627157340000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 4,
+        "description": "Es treten Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen zwischen 30 l/m² und 40 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten um 95 km/h (26m/s, 51kn, Bft 10) und Hagel mit Korngrößen um 2 cm.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Neckar-Odenwald-Kreis",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "501000001": [
+      {
+        "regionName": "Ostfriesische Küste",
+        "end": null,
+        "start": 1627141320000,
+        "type": 1,
+        "state": "Schleswig-Holstein",
+        "level": 2,
+        "description": "Gewitterböen von 8 Beaufort aus Südost bis Süd.",
+        "event": "BÖEN",
+        "headline": "Amtliche Warnung des Seewetterdienstes Hamburg vor BÖEN",
+        "instruction": "",
+        "stateShort": "SH",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108337000": [
+      {
+        "regionName": "Kreis Waldshut",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "501000002": [
+      {
+        "regionName": "Helgoland",
+        "end": null,
+        "start": 1627141320000,
+        "type": 1,
+        "state": "Schleswig-Holstein",
+        "level": 2,
+        "description": "Gewitterböen von 8 Beaufort aus Südost bis Süd.",
+        "event": "BÖEN",
+        "headline": "Amtliche Warnung des Seewetterdienstes Hamburg vor BÖEN",
+        "instruction": "",
+        "stateShort": "SH",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109471000": [
+      {
+        "regionName": "Kreis und Stadt Bamberg",
+        "end": 1627162200000,
+        "start": 1627157760000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 85 km/h (24m/s, 47kn, Bft 9) sowie Starkregen mit Niederschlagsmengen bis 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "501000003": [
+      {
+        "regionName": "Elbe-/Wesermündung",
+        "end": null,
+        "start": 1627141320000,
+        "type": 1,
+        "state": "Schleswig-Holstein",
+        "level": 2,
+        "description": "Gewitterböen von 8 Beaufort aus Südost bis Süd.",
+        "event": "BÖEN",
+        "headline": "Amtliche Warnung des Seewetterdienstes Hamburg vor BÖEN",
+        "instruction": "",
+        "stateShort": "SH",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103251000": [
+      {
+        "regionName": "Kreis Diepholz",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109172000": [
+      {
+        "regionName": "Kreis Berchtesgadener Land",
+        "end": 1627158600000,
+        "start": 1627155000000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Westen ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und Hagel mit Korngrößen um 2 cm.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis Berchtesgadener Land",
+        "end": 1627162200000,
+        "start": 1627155540000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 3,
+        "description": "Von Westen ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 85 km/h (24m/s, 47kn, Bft 9) sowie Starkregen mit Niederschlagsmengen bis 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "116061000": [
+      {
+        "regionName": "Kreis Eichsfeld",
+        "end": 1627160400000,
+        "start": 1627157400000,
+        "type": 0,
+        "state": "Thüringen",
+        "level": 3,
+        "description": "Es treten örtlich Gewitter auf. Dabei gibt es Starkregen mit Niederschlagsmengen um 15 l/m² pro Stunde sowie Windböen mit Geschwindigkeiten bis 60 km/h (17m/s, 33kn, Bft 7) und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "TH",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107320000": [
+      {
+        "regionName": "Stadt Zweibrücken",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "903462001": [
+      {
+        "regionName": "Kreis Wittmund - Binnenland",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "909571999": [
+      {
+        "regionName": "Kreis und Stadt Ansbach",
+        "end": 1627164000000,
+        "start": 1627157700000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen bis 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108119000": [
+      {
+        "regionName": "Rems-Murr-Kreis",
+        "end": 1627162200000,
+        "start": 1627157340000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 4,
+        "description": "Es treten Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen zwischen 30 l/m² und 40 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten um 95 km/h (26m/s, 51kn, Bft 10) und Hagel mit Korngrößen um 2 cm.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Rems-Murr-Kreis",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103456000": [
+      {
+        "regionName": "Kreis Grafschaft Bentheim",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 20 l/m² und 30 l/m² in 6 Stunden und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "907335999": [
+      {
+        "regionName": "Kreis und Stadt Kaiserslautern",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "903462002": [
+      {
+        "regionName": "Kreis Wittmund - Küste",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109780000": [
+      {
+        "regionName": "Kreis Oberallgäu",
+        "end": 1627164000000,
+        "start": 1627156800000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 3,
+        "description": "Von Südwesten ziehen wiederholt Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen bis 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "909678999": [
+      {
+        "regionName": "Kreis und Stadt Schweinfurt",
+        "end": 1627162200000,
+        "start": 1627157940000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und kleinkörnigen Hagel.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis und Stadt Schweinfurt",
+        "end": 1627162200000,
+        "start": 1627157760000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 85 km/h (24m/s, 47kn, Bft 9) sowie Starkregen mit Niederschlagsmengen bis 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "903457001": [
+      {
+        "regionName": "Kreis Leer (ohne Borkum)",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108136000": [
+      {
+        "regionName": "Ostalbkreis",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "903452001": [
+      {
+        "regionName": "Kreis Aurich - Binnenland",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109678000": [
+      {
+        "regionName": "Kreis und Stadt Schweinfurt",
+        "end": 1627162200000,
+        "start": 1627157940000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und kleinkörnigen Hagel.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis und Stadt Schweinfurt",
+        "end": 1627162200000,
+        "start": 1627157760000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 85 km/h (24m/s, 47kn, Bft 9) sowie Starkregen mit Niederschlagsmengen bis 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108125000": [
+      {
+        "regionName": "Kreis und Stadt Heilbronn",
+        "end": 1627162200000,
+        "start": 1627157340000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 4,
+        "description": "Es treten Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen zwischen 30 l/m² und 40 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten um 95 km/h (26m/s, 51kn, Bft 10) und Hagel mit Korngrößen um 2 cm.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis und Stadt Heilbronn",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103402000": [
+      {
+        "regionName": "Stadt Emden",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109171000": [
+      {
+        "regionName": "Kreis Altötting",
+        "end": 1627158600000,
+        "start": 1627155000000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Westen ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und Hagel mit Korngrößen um 2 cm.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "106636000": [
+      {
+        "regionName": "Werra-Meißner-Kreis",
+        "end": 1627159500000,
+        "start": 1627156920000,
+        "type": 0,
+        "state": "Hessen",
+        "level": 3,
+        "description": "Von Süden ziehen einzelne Gewitter auf. Dabei gibt es Starkregen mit Niederschlagsmengen um 15 l/m² pro Stunde sowie Windböen mit Geschwindigkeiten bis 60 km/h (17m/s, 33kn, Bft 7) und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "HE",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Werra-Meißner-Kreis",
+        "end": 1627161300000,
+        "start": 1627158000000,
+        "type": 0,
+        "state": "Hessen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Starkregen mit Niederschlagsmengen um 15 l/m² pro Stunde sowie Windböen mit Geschwindigkeiten bis 60 km/h (17m/s, 33kn, Bft 7) und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "HE",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "903452002": [
+      {
+        "regionName": "Kreis Aurich - Küste",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107335000": [
+      {
+        "regionName": "Kreis und Stadt Kaiserslautern",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107319000": [
+      {
+        "regionName": "Stadt Worms",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109571000": [
+      {
+        "regionName": "Kreis und Stadt Ansbach",
+        "end": 1627164000000,
+        "start": 1627157700000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen bis 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "903455001": [
+      {
+        "regionName": "Kreis Friesland - Binnenland",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103361000": [
+      {
+        "regionName": "Kreis Verden",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108126000": [
+      {
+        "regionName": "Hohenlohekreis",
+        "end": 1627162200000,
+        "start": 1627157340000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 4,
+        "description": "Es treten Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen zwischen 30 l/m² und 40 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten um 95 km/h (26m/s, 51kn, Bft 10) und Hagel mit Korngrößen um 2 cm.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "903455002": [
+      {
+        "regionName": "Kreis Friesland - Küste",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107316000": [
+      {
+        "regionName": "Stadt Neustadt an der Weinstraße",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107332000": [
+      {
+        "regionName": "Kreis Bad Dürkheim",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "903459999": [
+      {
+        "regionName": "Kreis und Stadt Osnabrück",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "909679999": [
+      {
+        "regionName": "Kreis und Stadt Würzburg",
+        "end": 1627162200000,
+        "start": 1627157940000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und kleinkörnigen Hagel.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis und Stadt Würzburg",
+        "end": 1627162200000,
+        "start": 1627157220000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und Hagel.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "110045000": [
+      {
+        "regionName": "Saarpfalz-Kreis",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Saarland",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "SL",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103356000": [
+      {
+        "regionName": "Kreis Osterholz",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "909471999": [
+      {
+        "regionName": "Kreis und Stadt Bamberg",
+        "end": 1627162200000,
+        "start": 1627157760000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 85 km/h (24m/s, 47kn, Bft 9) sowie Starkregen mit Niederschlagsmengen bis 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "104011000": [
+      {
+        "regionName": "Hansestadt Bremen",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Bremen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "HB",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107337000": [
+      {
+        "regionName": "Kreis Südliche Weinstraße",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "903461001": [
+      {
+        "regionName": "Kreis Wesermarsch - Binnenland",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108116000": [
+      {
+        "regionName": "Kreis Esslingen",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103451000": [
+      {
+        "regionName": "Kreis Ammerland",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "907340999": [
+      {
+        "regionName": "Kreis Südwestpfalz und Stadt Pirmasens",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "903461002": [
+      {
+        "regionName": "Kreis Wesermarsch - Küste",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "104012000": [
+      {
+        "regionName": "Stadt Bremerhaven",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Bremen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "HB",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107331000": [
+      {
+        "regionName": "Kreis Alzey-Worms",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109575000": [
+      {
+        "regionName": "Kreis Neustadt a.d. Aisch-Bad Windsheim",
+        "end": 1627164000000,
+        "start": 1627157700000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10).",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können unter anderem Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis Neustadt a.d. Aisch-Bad Windsheim",
+        "end": 1627162200000,
+        "start": 1627157220000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und Hagel.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis Neustadt a.d. Aisch-Bad Windsheim",
+        "end": 1627164000000,
+        "start": 1627157700000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und Hagel.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "203464000": [
+      {
+        "regionName": "Zwischenahner Meer",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103357000": [
+      {
+        "regionName": "Kreis Rotenburg (Wümme)",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103405000": [
+      {
+        "regionName": "Stadt Wilhelmshaven",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103453000": [
+      {
+        "regionName": "Kreis Cloppenburg",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "907338999": [
+      {
+        "regionName": "Rhein-Pfalz-Kreis und Stadt Ludwigshafen",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109777000": [
+      {
+        "regionName": "Kreis Ostallgäu",
+        "end": 1627164000000,
+        "start": 1627156800000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 3,
+        "description": "Von Südwesten ziehen wiederholt Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen bis 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103256000": [
+      {
+        "regionName": "Kreis Nienburg (Weser)",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108127000": [
+      {
+        "regionName": "Kreis Schwäbisch Hall",
+        "end": 1627162200000,
+        "start": 1627157340000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 4,
+        "description": "Es treten Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen zwischen 30 l/m² und 40 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten um 95 km/h (26m/s, 51kn, Bft 10) und Hagel mit Korngrößen um 2 cm.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis Schwäbisch Hall",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "116064000": [
+      {
+        "regionName": "Unstrut-Hainich-Kreis",
+        "end": 1627160400000,
+        "start": 1627157400000,
+        "type": 0,
+        "state": "Thüringen",
+        "level": 3,
+        "description": "Es treten örtlich Gewitter auf. Dabei gibt es Starkregen mit Niederschlagsmengen um 15 l/m² pro Stunde sowie Windböen mit Geschwindigkeiten bis 60 km/h (17m/s, 33kn, Bft 7) und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "TH",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107333000": [
+      {
+        "regionName": "Donnersbergkreis",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "903458999": [
+      {
+        "regionName": "Kreis und Stadt Oldenburg",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109675000": [
+      {
+        "regionName": "Kreis Kitzingen",
+        "end": 1627162200000,
+        "start": 1627157940000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und kleinkörnigen Hagel.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      },
+      {
+        "regionName": "Kreis Kitzingen",
+        "end": 1627164000000,
+        "start": 1627157700000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 4,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen bis 30 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten bis 100 km/h (28m/s, 55kn, Bft 10) und Hagel.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108128000": [
+      {
+        "regionName": "Main-Tauber-Kreis",
+        "end": 1627162200000,
+        "start": 1627157340000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 4,
+        "description": "Es treten Gewitter auf. Dabei gibt es heftigen Starkregen mit Niederschlagsmengen zwischen 30 l/m² und 40 l/m² pro Stunde sowie schwere Sturmböen mit Geschwindigkeiten um 95 km/h (26m/s, 51kn, Bft 10) und Hagel mit Korngrößen um 2 cm.",
+        "event": "SCHWERES GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "headline": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können zum Beispiel Bäume entwurzelt und Dächer beschädigt werden. Achten Sie auf herabstürzende Äste, Dachziegel oder Gegenstände.  Überflutungen von Kellern und Straßen sowie örtliche Überschwemmungen an Bächen und kleinen Flüssen sind möglich (Details: www.hochwasserzentralen.de). Es können zum Beispiel Erdrutsche auftreten. Schließen Sie alle Fenster und Türen! Sichern Sie Gegenstände im Freien! Halten Sie insbesondere Abstand von Gebäuden, Bäumen, Gerüsten und Hochspannungsleitungen! Vermeiden Sie möglichst den Aufenthalt im Freien!",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108336000": [
+      {
+        "regionName": "Kreis Lörrach",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107338000": [
+      {
+        "regionName": "Rhein-Pfalz-Kreis und Stadt Ludwigshafen",
+        "end": 1627160400000,
+        "start": 1627155900000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 3,
+        "description": "Von Südwesten ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten bis 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108117000": [
+      {
+        "regionName": "Kreis Göppingen",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "103458000": [
+      {
+        "regionName": "Kreis und Stadt Oldenburg",
+        "end": 1627160400000,
+        "start": 1627156380000,
+        "type": 0,
+        "state": "Niedersachsen",
+        "level": 3,
+        "description": "Von Süden ziehen Gewitter auf. Dabei gibt es Sturmböen mit Geschwindigkeiten um 70 km/h (20m/s, 38kn, Bft 8) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "NS",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "908315999": [
+      {
+        "regionName": "Kreis Breisgau-Hochschwarzwald und Stadt Freiburg",
+        "end": 1627162200000,
+        "start": 1627157100000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 3,
+        "description": "Es treten Gewitter auf. Dabei gibt es schwere Sturmböen mit Geschwindigkeiten bis 90 km/h (25m/s, 48kn, Bft 10) sowie Starkregen mit Niederschlagsmengen zwischen 15 l/m² und 25 l/m² pro Stunde und kleinkörnigen Hagel.",
+        "event": "STARKES GEWITTER",
+        "headline": "Amtliche WARNUNG vor STARKEM GEWITTER",
+        "instruction": "ACHTUNG! Hinweis auf mögliche Gefahren: Örtlich kann es Blitzschlag geben. Bei Blitzschlag besteht Lebensgefahr! Vereinzelt können beispielsweise Bäume entwurzelt und Dächer beschädigt werden. Achten Sie besonders auf herabstürzende Äste, Dachziegel oder Gegenstände. Während des Platzregens sind kurzzeitig Verkehrsbehinderungen möglich.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ]
+  },
+  "vorabInformation": {
+    "109184000": [
+      {
+        "regionName": "Kreis und Stadt München",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107340000": [
+      {
+        "regionName": "Kreis Südwestpfalz und Stadt Pirmasens",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109173000": [
+      {
+        "regionName": "Kreis Bad Tölz-Wolfratshausen",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109189000": [
+      {
+        "regionName": "Kreis Traunstein",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109776000": [
+      {
+        "regionName": "Kreis Lindau (Bodensee)",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "907235999": [
+      {
+        "regionName": "Kreis Trier-Saarburg und Stadt Trier",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107233000": [
+      {
+        "regionName": "Kreis Vulkaneifel",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107313000": [
+      {
+        "regionName": "Stadt Landau in der Pfalz",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109775000": [
+      {
+        "regionName": "Kreis Neu-Ulm",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107334000": [
+      {
+        "regionName": "Kreis Germersheim",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109183000": [
+      {
+        "regionName": "Kreis Mühldorf a. Inn",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "110042000": [
+      {
+        "regionName": "Kreis Merzig-Wadern",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Saarland",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "SL",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109172000": [
+      {
+        "regionName": "Kreis Berchtesgadener Land",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109188000": [
+      {
+        "regionName": "Kreis Starnberg",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107336000": [
+      {
+        "regionName": "Kreis Kusel",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107320000": [
+      {
+        "regionName": "Stadt Zweibrücken",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "110041000": [
+      {
+        "regionName": "Regionalverband Saarbrücken",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Saarland",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "SL",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109177000": [
+      {
+        "regionName": "Kreis Erding",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107133000": [
+      {
+        "regionName": "Kreis Bad Kreuznach",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109764000": [
+      {
+        "regionName": "Stadt Memmingen",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "907335999": [
+      {
+        "regionName": "Kreis und Stadt Kaiserslautern",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109780000": [
+      {
+        "regionName": "Kreis Oberallgäu",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "909187999": [
+      {
+        "regionName": "Kreis und Stadt Rosenheim",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109182000": [
+      {
+        "regionName": "Kreis Miesbach",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109763000": [
+      {
+        "regionName": "Stadt Kempten (Allgäu)",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109171000": [
+      {
+        "regionName": "Kreis Altötting",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109187000": [
+      {
+        "regionName": "Kreis und Stadt Rosenheim",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107335000": [
+      {
+        "regionName": "Kreis und Stadt Kaiserslautern",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "110046000": [
+      {
+        "regionName": "Kreis St. Wendel",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Saarland",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "SL",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107140000": [
+      {
+        "regionName": "Rhein-Hunsrück-Kreis",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107332000": [
+      {
+        "regionName": "Kreis Bad Dürkheim",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107316000": [
+      {
+        "regionName": "Stadt Neustadt an der Weinstraße",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "110045000": [
+      {
+        "regionName": "Saarpfalz-Kreis",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Saarland",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "SL",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109181000": [
+      {
+        "regionName": "Kreis Landsberg am Lech",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109277000": [
+      {
+        "regionName": "Kreis Rottal-Inn",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107337000": [
+      {
+        "regionName": "Kreis Südliche Weinstraße",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108435000": [
+      {
+        "regionName": "Bodenseekreis",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107134000": [
+      {
+        "regionName": "Kreis Birkenfeld",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "907340999": [
+      {
+        "regionName": "Kreis Südwestpfalz und Stadt Pirmasens",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "909184999": [
+      {
+        "regionName": "Kreis und Stadt München",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108436000": [
+      {
+        "regionName": "Kreis Ravensburg",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109175000": [
+      {
+        "regionName": "Kreis Ebersberg",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109762000": [
+      {
+        "regionName": "Stadt Kaufbeuren",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109778000": [
+      {
+        "regionName": "Kreis Unterallgäu",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107235000": [
+      {
+        "regionName": "Kreis Trier-Saarburg und Stadt Trier",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109180000": [
+      {
+        "regionName": "Kreis Garmisch-Partenkirchen",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109777000": [
+      {
+        "regionName": "Kreis Ostallgäu",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107232000": [
+      {
+        "regionName": "Eifelkreis Bitburg-Prüm",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108426000": [
+      {
+        "regionName": "Kreis Biberach",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109772000": [
+      {
+        "regionName": "Kreis und Stadt Augsburg",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107333000": [
+      {
+        "regionName": "Donnersbergkreis",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108335000": [
+      {
+        "regionName": "Kreis Konstanz",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "110044000": [
+      {
+        "regionName": "Kreis Saarlouis",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Saarland",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "SL",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109190000": [
+      {
+        "regionName": "Kreis Weilheim-Schongau",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "110043000": [
+      {
+        "regionName": "Kreis Neunkirchen",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Saarland",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "SL",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "109179000": [
+      {
+        "regionName": "Kreis Fürstenfeldbruck",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107135000": [
+      {
+        "regionName": "Kreis Cochem-Zell",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "107231000": [
+      {
+        "regionName": "Kreis Bernkastel-Wittlich",
+        "end": 1627160400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Rheinland-Pfalz",
+        "level": 1,
+        "description": "Von Frankreich und Luxemburg her ziehen ab dem Spätnachmittag teils schwere Gewitter auf. Es muss mit schweren Sturmböen (Bft 10) um 100 km/h gerechnet werden. Zudem kann es Hagel mit Korngrößen um 3 cm und Starkregen um 30 l/m² in kurzer Zeit geben.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "RP",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "909772999": [
+      {
+        "regionName": "Kreis und Stadt Augsburg",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Bayern",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BY",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ],
+    "108437000": [
+      {
+        "regionName": "Kreis Sigmaringen",
+        "end": 1627178400000,
+        "start": 1627135200000,
+        "type": 0,
+        "state": "Baden-Württemberg",
+        "level": 1,
+        "description": "Ab dem Spätnachmittag ziehen aus den Alpen heraus teils schwere Gewitter nordostwärts. Diese können lokal schwere Sturmböen (Bft 10) bis 100 km/h bringen. Zudem muss mit großkörnigem Hagel bis 3 cm und Starkregen um 30 l/m² in kurzer Zeit gerechnet werden. Ab dem Abend kann es im Alpenvorland und am Alpenrand auch zu mehrstündigem Starkregen zwischen 30 und 60 l/m² kommen.",
+        "event": "VORABINFORMATION SCHWERES GEWITTER",
+        "headline": "VORABINFORMATION UNWETTER vor SCHWEREM GEWITTER",
+        "instruction": "Dies ist ein Hinweis auf eine Wetterlage mit hohem Unwetterpotential. Er soll die rechtzeitige Vorbereitung von Schutzmaßnahmen ermöglichen. \n\nGewitter mit den genannten Begleiterscheinungen treten typischerweise sehr lokal auf und treffen mit voller Intensität meist nur wenige Orte. Genauere Angaben zu Ort, Gebiet und Zeitpunkt des Ereignisses können erst mit der Ausgabe der amtlichen Warnungen erfolgen. Bitte verfolgen Sie die weiteren Wettervorhersagen mit besonderer Aufmerksamkeit.",
+        "stateShort": "BW",
+        "altitudeStart": null,
+        "altitudeEnd": null
+      }
+    ]
+  },
+  "copyright": "Copyright Deutscher Wetterdienst"
+}
